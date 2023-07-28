@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "** MASTERMIND **",
   "main": "dist/sum.js",
-  "type": "module",
   "scripts": {
     "test": "jest",
     "build": "tsc"
